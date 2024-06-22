@@ -13,3 +13,4 @@
 
 
 ## Hosted URL
+https://landingpage-aria.netlify.app
